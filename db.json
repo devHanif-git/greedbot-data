@@ -1,6 +1,6 @@
 {
   "pool-profit": [
-    { "id": 1, "text": "12.12" },
+    { "percentage": 88.88, "text": "99.9" },
     { "id": 2, "text": "121.20" }
   ],
   "chart-data": [
