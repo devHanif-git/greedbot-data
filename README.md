@@ -1,1 +1,1 @@
-# greedbot-data
+## C.I.A - GreedBOT Database
