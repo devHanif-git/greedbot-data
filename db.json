@@ -1,16 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 4, "title": "Post 4" }
+  "pool-profit": [
+    { "id": 1, "text": "12.12" },
+    { "id": 2, "text": "121.20" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 2 },
-    { "id": 3, "body": "some comment", "postId": 3 }
+  "chart-data": [
+    { "id": 1, "day": 1, "data": 1.5 },
+    { "id": 2, "day": 2, "data": 0.8 },
+    { "id": 3, "day": 3, "data": 2.8 },
+    { "id": 4, "day": 4, "data": 0.5 },
+    { "id": 5, "day": 5, "data": 1.2 },
+    { "id": 6, "day": 6, "data": 1.6 },
+    { "id": 7, "day": 7, "data": 0.9 }
   ],
-  "profile": {
-    "name": "typicode"
+  "my-profit": {
+    "text": "7.56"
   }
 }
