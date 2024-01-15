@@ -1,18 +1,17 @@
 {
   "pool-profit": [
-    { "percentage": 88.88, "text": "99.9" },
-    { "id": 2, "text": "121.20" }
+    { "percentage": 88.88, "usdt": "99.9" },
   ],
   "chart-data": [
-    { "id": 1, "day": 1, "data": 1.5 },
-    { "id": 2, "day": 2, "data": 0.8 },
-    { "id": 3, "day": 3, "data": 2.8 },
-    { "id": 4, "day": 4, "data": 0.5 },
-    { "id": 5, "day": 5, "data": 1.2 },
-    { "id": 6, "day": 6, "data": 1.6 },
-    { "id": 7, "day": 7, "data": 0.9 }
+    { "id": 1, "data": 1.5 },
+    { "id": 2,"data": 0.8 },
+    { "id": 3, "data": 2.8 },
+    { "id": 4, "data": 0.5 },
+    { "id": 5, "data": 1.2 },
+    { "id": 6, "data": 1.6 },
+    { "id": 7, "data": 0.9 }
   ],
   "my-profit": {
-    "text": "7.56"
+    "percentage": "7.56"
   }
 }
