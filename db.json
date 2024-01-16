@@ -3,15 +3,12 @@
     { "percentage": 8888.88, "usdt": "99.90" }
   ],
   "chart-data": [
-    { "id": 1, "data": 1.5 },
-    { "id": 2, "data": 0.8 },
-    { "id": 3, "data": 2.5 },
-    { "id": 4, "data": 0.5 },
-    { "id": 5, "data": 1.2 },
-    { "id": 6, "data": 1.6 },
-    { "id": 7, "data": 0.9 }
-  ],
-  "my-profit": {
-    "percentage": "7.56"
-  }
+    { "id": 1, "data": 2.0 },
+    { "id": 2, "data": 0.0 },
+    { "id": 3, "data": 0.0 },
+    { "id": 4, "data": 0.0 },
+    { "id": 5, "data": 0.0 },
+    { "id": 6, "data": 0.0 },
+    { "id": 7, "data": 0.0 }
+  ]
 }
