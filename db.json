@@ -1,13 +1,13 @@
 {
   "pool-profit": [
-    { "percentage": 1.682, "usdt": "72.34" }
+    { "percentage": 2.035, "usdt": "84.53" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.398 },
     { "id": 2, "data": 0.765 },
     { "id": 3, "data": 0.439 },
     { "id": 4, "data": 0.079 },
-    { "id": 5, "data": 0.0 },
+    { "id": 5, "data": 0.353 },
     { "id": 6, "data": 0.0 },
     { "id": 7, "data": 0.0 }
   ]
