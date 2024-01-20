@@ -1,4 +1,7 @@
 {
+  "total-pool": {
+    "usdt" : "5000"
+  },
   "pool-profit": [
     { "percentage": 2.035, "usdt": "84.53" }
   ],
