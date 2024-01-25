@@ -6,11 +6,11 @@
     "text" : "BATCH 2"
   },
   "pool-profit": [
-    { "percentage": 0.285, "usdt": "12.27" }
+    { "percentage": 0.377, "usdt": "16.20" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.285 },
-    { "id": 2, "data": 0 },
+    { "id": 2, "data": 0.091 },
     { "id": 3, "data": 0 },
     { "id": 4, "data": 0 },
     { "id": 5, "data": 0 },
