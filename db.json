@@ -3,19 +3,19 @@
     "usdt" : "4550"
   },
   "batch": {
-    "text" : "WEEK 4"
+    "text" : "WEEK 5"
   },
   "pool-profit": [
-    { "percentage": 1.866,
-      "usdt": "84.91" }
+    { "percentage": 0.186,
+      "usdt": "8.45" }
   ],
   "chart-data": [
-    { "id": 1, "data": 0.093 },
-    { "id": 2, "data": 0.291 },
-    { "id": 3, "data": 0.357 },
-    { "id": 4, "data": 0.181 },
-    { "id": 5, "data": 0.339 },
-    { "id": 6, "data": 0.221 },
-    { "id": 7, "data": 0.386 }
+    { "id": 1, "data": 0.186 },
+    { "id": 2, "data": 0 },
+    { "id": 3, "data": 0 },
+    { "id": 4, "data": 0 },
+    { "id": 5, "data": 0 },
+    { "id": 6, "data": 0 },
+    { "id": 7, "data": 0 }
   ]
 }
