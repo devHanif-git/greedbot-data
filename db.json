@@ -6,12 +6,12 @@
     "text" : "WEEK 6"
   },
   "pool-profit": [
-    { "percentage": 0.205,
-      "usdt": "9.33" }
+    { "percentage": 0.324,
+      "usdt": "14.73" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.205 },
-    { "id": 2, "data": 0 },
+    { "id": 2, "data": 0.119 },
     { "id": 3, "data": 0 },
     { "id": 4, "data": 0 },
     { "id": 5, "data": 0 },
