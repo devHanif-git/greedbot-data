@@ -6,8 +6,8 @@
     "text" : "WEEK 8"
   },
   "pool-profit": [
-    { "percentage": 1.341,
-      "usdt": "61.01" }
+    { "percentage": 1.663,
+      "usdt": "75.65" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.329 },
@@ -16,6 +16,6 @@
     { "id": 4, "data": 0.228 },
     { "id": 5, "data": 0.265 },
     { "id": 6, "data": 0.148 },
-    { "id": 7, "data": 0 }
+    { "id": 7, "data": 0.322 }
   ]
 }
