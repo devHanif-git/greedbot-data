@@ -6,15 +6,15 @@
     "text" : "WEEK 9"
   },
   "pool-profit": [
-    { "percentage": 0.543,
-      "usdt": "24.70" }
+    { "percentage": 0.634,
+      "usdt": "28.84" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.202 },
     { "id": 2, "data": 0.107 },
     { "id": 3, "data": 0.110 },
     { "id": 4, "data": 0.124 },
-    { "id": 5, "data": 0 },
+    { "id": 5, "data": 0.091 },
     { "id": 6, "data": 0 },
     { "id": 7, "data": 0 }
   ]
