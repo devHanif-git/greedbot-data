@@ -1,0 +1,21 @@
+{
+  "total-pool": {
+    "usdt" : "4550"
+  },
+  "batch": {
+    "text" : "WEEK 9"
+  },
+  "pool-profit": [
+    { "percentage": 0.932,
+      "usdt": "42.41" }
+  ],
+  "chart-data": [
+    { "id": 1, "data": 0.202 },
+    { "id": 2, "data": 0.107 },
+    { "id": 3, "data": 0.110 },
+    { "id": 4, "data": 0.124 },
+    { "id": 5, "data": 0.091 },
+    { "id": 6, "data": 0.108 },
+    { "id": 7, "data": 0.190 }
+  ]
+}
