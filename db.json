@@ -6,8 +6,8 @@
     "text" : "WEEK 10"
   },
   "pool-profit": [
-    { "percentage": 0.992,
-      "usdt": "45.12" }
+    { "percentage": 1.191,
+      "usdt": "54.17" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.177 },
@@ -15,7 +15,7 @@
     { "id": 3, "data": 0.160 },
     { "id": 4, "data": 0.138 },
     { "id": 5, "data": 0.262 },
-    { "id": 6, "data": 0 },
+    { "id": 6, "data": 0.199 },
     { "id": 7, "data": 0 }
   ]
 }
