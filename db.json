@@ -3,19 +3,19 @@
     "usdt" : "4550"
   },
   "batch": {
-    "text" : "WEEK 10"
+    "text" : "WEEK 11"
   },
   "pool-profit": [
-    { "percentage": 1.475,
-      "usdt": "67.10" }
+    { "percentage": 0.127,
+      "usdt": "5.78" }
   ],
   "chart-data": [
-    { "id": 1, "data": 0.177 },
-    { "id": 2, "data": 0.254 },
-    { "id": 3, "data": 0.160 },
-    { "id": 4, "data": 0.138 },
-    { "id": 5, "data": 0.262 },
-    { "id": 6, "data": 0.199 },
-    { "id": 7, "data": 0.284 }
+    { "id": 1, "data": 0.127 },
+    { "id": 2, "data": 0 },
+    { "id": 3, "data": 0 },
+    { "id": 4, "data": 0 },
+    { "id": 5, "data": 0 },
+    { "id": 6, "data": 0 },
+    { "id": 7, "data": 0 }
   ]
 }
