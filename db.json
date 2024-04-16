@@ -6,7 +6,7 @@
     "text" : "WEEK 13"
   },
   "pool-profit": [
-    { "percentage": 0.697,
+    { "percentage": 0.814,
       "usdt": "31.72" }
   ],
   "chart-data": [
@@ -15,7 +15,7 @@
     { "id": 3, "data": 0.144 },
     { "id": 4, "data": 0.086 },
     { "id": 5, "data": 0.079 },
-    { "id": 6, "data": 0 },
+    { "id": 6, "data": 0.117 },
     { "id": 7, "data": 0 }
   ]
 }
