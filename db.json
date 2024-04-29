@@ -6,15 +6,15 @@
     "text" : "WEEK 15"
   },
   "pool-profit": [
-    { "percentage": 0.355,
-      "usdt": "16.13" }
+    { "percentage": 0.434,
+      "usdt": "19.73" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.101 },
     { "id": 2, "data": 0.073 },
     { "id": 3, "data": 0.092 },
     { "id": 4, "data": 0.088 },
-    { "id": 5, "data": 0 },
+    { "id": 5, "data": 0.079 },
     { "id": 6, "data": 0 },
     { "id": 7, "data": 0 }
   ]
