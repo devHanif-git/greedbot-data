@@ -6,13 +6,13 @@
     "text" : "WEEK 16"
   },
   "pool-profit": [
-    { "percentage": 0.185,
-      "usdt": "8.42" }
+    { "percentage": 0.312,
+      "usdt": "14.19" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.069 },
     { "id": 2, "data": 0.116 },
-    { "id": 3, "data": 0 },
+    { "id": 3, "data": 0.127 },
     { "id": 4, "data": 0 },
     { "id": 5, "data": 0 },
     { "id": 6, "data": 0 },
