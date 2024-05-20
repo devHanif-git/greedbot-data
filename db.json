@@ -6,12 +6,12 @@
     "text" : "WEEK 18"
   },
   "pool-profit": [
-    { "percentage": 0.056,
-      "usdt": "2.57" }
+    { "percentage": 0.191,
+      "usdt": "8.71" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.056 },
-    { "id": 2, "data": 0 },
+    { "id": 2, "data": 0.135 },
     { "id": 3, "data": 0 },
     { "id": 4, "data": 0 },
     { "id": 5, "data": 0 },
