@@ -1,0 +1,21 @@
+{
+  "total-pool": {
+    "usdt" : "4550"
+  },
+  "batch": {
+    "text" : "WEEK 18"
+  },
+  "pool-profit": [
+    { "percentage": 0.796,
+      "usdt": "36.23" }
+  ],
+  "chart-data": [
+    { "id": 1, "data": 0.056 },
+    { "id": 2, "data": 0.135 },
+    { "id": 3, "data": 0.102 },
+    { "id": 4, "data": 0.160 },
+    { "id": 5, "data": 0.113 },
+    { "id": 6, "data": 0.081 },
+    { "id": 7, "data": 0.149 }
+  ]
+}
