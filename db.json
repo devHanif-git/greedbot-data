@@ -6,8 +6,8 @@
     "text" : "WEEK 20"
   },
   "pool-profit": [
-    { "percentage": 0.596,
-      "usdt": "27.14" }
+    { "percentage": 0.770,
+      "usdt": "35.09" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.111 },
@@ -16,6 +16,6 @@
     { "id": 4, "data": 0.075 },
     { "id": 5, "data": 0.061 },
     { "id": 6, "data": 0.114 },
-    { "id": 7, "data": 0 }
+    { "id": 7, "data": 0.174 }
   ]
 }
