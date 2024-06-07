@@ -6,13 +6,13 @@
     "text" : "WEEK 21"
   },
   "pool-profit": [
-    { "percentage": 0.296,
-      "usdt": "13.51" }
+    { "percentage": 0.370,
+      "usdt": "16.85" }
   ],
   "chart-data": [
     { "id": 1, "data": 0.207 },
     { "id": 2, "data": 0.089 },
-    { "id": 3, "data": 0 },
+    { "id": 3, "data": 0.073 },
     { "id": 4, "data": 0 },
     { "id": 5, "data": 0 },
     { "id": 6, "data": 0 },
