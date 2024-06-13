@@ -1,72 +1,51 @@
 {
-    "total-pool": {
-        "usdt": "4559.68"
+  "total-pool": {
+    "usdt": "4559.68"
+  },
+  "batch": {
+    "text": "WEEK 22"
+  },
+  "batches": [
+    {
+      "id": "1",
+      "week": "WEEK 21",
+      "data": {
+        "DAY 1": "1.2",
+        "DAY 2": "2.2",
+        "DAY 3": "3.2",
+        "DAY 4": "4.2",
+        "DAY 5": "5.2",
+        "DAY 6": "6.2",
+        "DAY 7": "7.2"
+      }
     },
-    "batch": {
-        "text": "WEEK 22"
-    },
-    "batches": [
-        {
-            "id": "1",
-            "week": "WEEK 21",
-            "data": {
-                "DAY 1": "1.2",
-                "DAY 2": "2.2",
-                "DAY 3": "3.2",
-                "DAY 4": "4.2",
-                "DAY 5": "5.2",
-                "DAY 6": "6.2",
-                "DAY 7": "7.2"
-            }
-        },
-        {
-            "id": "2",
-            "week": "WEEK 22",
-            "data": {
-                "DAY 1": "1.2",
-                "DAY 2": "2.2",
-                "DAY 3": "3.2",
-                "DAY 4": "4.2",
-                "DAY 5": "5.2",
-                "DAY 6": "6.2",
-                "DAY 7": "7.2"
-            }
-        }
-    ],
-    "pool-profit": [
-        {
-            "percentage": 0.051,
-            "usdt": "2.31"
-        }
-    ],
-    "chart-data": [
-        {
-            "id": 1,
-            "data": 0.051
-        },
-        {
-            "id": 2,
-            "data": 0
-        },
-        {
-            "id": 3,
-            "data": 0
-        },
-        {
-            "id": 4,
-            "data": 0
-        },
-        {
-            "id": 5,
-            "data": 0
-        },
-        {
-            "id": 6,
-            "data": 0
-        },
-        {
-            "id": 7,
-            "data": 0
-        }
-    ]
+    {
+      "id": "2",
+      "week": "WEEK 22",
+      "data": {
+        "DAY 1": "1.2",
+        "DAY 2": "2.2",
+        "DAY 3": "3.2",
+        "DAY 4": "4.2",
+        "DAY 5": "5.2",
+        "DAY 6": "6.2",
+        "DAY 7": "7.2"
+      }
+    }
+  ],
+  "pool-profit": [
+    {
+      "percentage": 0.051,
+      "usdt": "2.31"
+    }
+  ],
+  "chart-data": [
+    { "id": 1, "data": 0.051 },
+    { "id": 2, "data": 0 },
+    { "id": 3, "data": 0 },
+    { "id": 4, "data": 0 },
+    { "id": 5, "data": 0 },
+    { "id": 6, "data": 0 },
+    { "id": 7, "data": 0 }
+  ]
 }
