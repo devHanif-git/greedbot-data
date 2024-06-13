@@ -5,6 +5,10 @@
   "batch": {
     "text" : "WEEK 22"
   },
+  "batches": [
+    {"WEEK 21" : "TEST21"},
+    {"WEEK 22" : "TEST22"}
+  ],
   "pool-profit": [
     { "percentage": 0.051,
       "usdt": "2.31" }
