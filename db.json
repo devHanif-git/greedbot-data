@@ -6,8 +6,32 @@
     "text" : "WEEK 22"
   },
   "batches": [
-    {"WEEK 21" : "TEST21"},
-    {"WEEK 22" : "TEST22"}
+    {
+      "id": "1",
+      "week": "WEEK 21",
+      "data": {
+        "DAY 1": "1.2",
+        "DAY 2": "2.2",
+        "DAY 3": "3.2",
+        "DAY 4": "4.2",
+        "DAY 5": "5.2",
+        "DAY 6": "6.2",
+        "DAY 7": "7.2",
+        }
+    },
+    {
+      "id": "2",
+      "week": "WEEK 22",
+       "data": {
+        "DAY 1": "1.2",
+        "DAY 2": "2.2",
+        "DAY 3": "3.2",
+        "DAY 4": "4.2",
+        "DAY 5": "5.2",
+        "DAY 6": "6.2",
+        "DAY 7": "7.2",
+        }
+    }
   ],
   "pool-profit": [
     { "percentage": 0.051,
