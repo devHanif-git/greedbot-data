@@ -9,7 +9,7 @@
         {
             "id": "1",
             "week": "WEEK 21",
-            "pool-profit": [ { "percentage": 13, "usdt": "150" } ],
+            "poolProfit": [ { "percentage": 13, "usdt": "150" } ],
             "data": [
                 { "day": "1", "data": "7.2" },
                 { "day": "2", "data": "6.2" },
@@ -23,7 +23,7 @@
         {
             "id": "2",
             "week": "WEEK 22",
-            "pool-profit": [ { "percentage": 20, "usdt": "250" } ],
+            "poolProfit": [ { "percentage": 20, "usdt": "250" } ],
             "data": [
                 { "day": "1", "data": "1.2" },
                 { "day": "2", "data": "2.2" },
