@@ -9,6 +9,7 @@
         {
             "id": "1",
             "week": "WEEK 21",
+            "total": "5",
             "data": {
                 "day1": {
                     "data1": "7.2",
@@ -78,6 +79,7 @@
         {
             "id": "2",
             "week": "WEEK 22",
+            "total": "8",
             "data": {
                 "day1": {
                     "data1": "7.2",
