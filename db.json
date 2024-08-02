@@ -66,7 +66,7 @@
 		{ "week": "5", "data": "0.310" } 
             ]
         },
-		{
+	{
             "id": "6",
             "month": "JUNE",
             "poolProfit": [ { "percentage": 2.549, "usdt": "116.21" } ],
@@ -78,15 +78,27 @@
 		{ "week": "5", "data": "0.234" } 
             ]
         },
-		{
+	{
             "id": "7",
             "month": "JULY",
-            "poolProfit": [ { "percentage": 2.445, "usdt": "111.69" } ],
+            "poolProfit": [ { "percentage": 2.666, "usdt": "121.78" } ],
             "data": [
                 { "week": "1", "data": "0.506" },
                 { "week": "2", "data": "0.664" },
                 { "week": "3", "data": "0.667" },
                 { "week": "4", "data": "0.608" },
+		{ "week": "5", "data": "0.221" } 	
+    	   ]
+	},
+	{
+            "id": "8",
+            "month": "AUGUST",
+            "poolProfit": [ { "percentage": 0.0, "usdt": "0.0" } ],
+            "data": [
+                { "week": "1", "data": "0" },
+                { "week": "2", "data": "0" },
+                { "week": "3", "data": "0" },
+                { "week": "4", "data": "0" },
 		{ "week": "5", "data": "0" } 	
     	   ]
 	}
