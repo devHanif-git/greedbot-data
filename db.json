@@ -93,10 +93,10 @@
 	{
             "id": "8",
             "month": "AUGUST",
-            "poolProfit": [ { "percentage": 0.319, "usdt": "14.58" } ],
+            "poolProfit": [ { "percentage": 0.811, "usdt": "37.09" } ],
             "data": [
-                { "week": "1", "data": "0.321" },
-                { "week": "2", "data": "0" },
+                { "week": "1", "data": "0.319" },
+                { "week": "2", "data": "0.492" },
                 { "week": "3", "data": "0" },
                 { "week": "4", "data": "0" },
 		{ "week": "5", "data": "0" } 	
